@@ -1,3 +1,8 @@
+## This pair of functions is the outcome an assignment
+## created by the Johns Hopkins University to
+## the Data Science specialization - R Programming course
+## The assignment instructions are presented below
+
 ### Introduction
 
 This second programming assignment will require you to write an R
